@@ -17,9 +17,9 @@ for (let i = 0; i < A.length; i++){
         ){
             vowels.push(ch);
         }
-
-        result.push(vowels);
     }
+
+    result.push(vowels);
 }
 
 console.log(result);
