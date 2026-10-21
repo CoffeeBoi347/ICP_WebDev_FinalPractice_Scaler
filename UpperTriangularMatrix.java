@@ -29,7 +29,6 @@ public class UpperTriangularMatrix {
         }
 
         sc.close();
-
         System.out.println(isUpperTriangular);
     }
 }

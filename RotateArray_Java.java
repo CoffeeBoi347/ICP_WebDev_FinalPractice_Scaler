@@ -26,5 +26,7 @@ public class RotateArray_Java {
         for (int k = 0; k < x; k++){
             System.out.print(arr[k] + " ");
         }
+
+        sc.close();
     }
 }
